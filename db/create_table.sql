@@ -1,0 +1,1 @@
+CREATE TABLE property (id serial PRIMARY KEY, name VARCHAR(50),address VARCHAR(255), city VARCHAR(50),state VARCHAR(15), zip INTEGER, image_url TEXT, mortgage INTEGER, rent INTEGER)
